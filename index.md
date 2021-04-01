@@ -11,6 +11,19 @@
 - CSS
 - JavaScript
 
+##### Funny Progamming Quote
+Jeff Sickel:
+
+> Deleted code is debugged code.
+
+##### Hello World! in Java
+```
+class HelloWorld{
+    public static void main(String args[]){
+        System.out.println("Hello World!");
+    }
+}
+```
 
 ## Hobbies
 1. Video Games
