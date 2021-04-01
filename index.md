@@ -17,6 +17,7 @@
    - League of Legends
    - Genshin Impact
    - Beat Saber
+   - My [Steam Account](https://steamcommunity.com/profiles/76561198151230179/).
 2. Watching Anime
    - Favorite Anime
       - Haikyuu
@@ -27,6 +28,5 @@
       - **GPU:** Radeon 6800xt
       - **Motherboard:** Asus Rog Strix x570
 
-My [Steam Account](https://steamcommunity.com/profiles/76561198151230179/). 
 
 
