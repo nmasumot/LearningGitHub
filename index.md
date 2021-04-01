@@ -36,10 +36,13 @@ class HelloWorld{
       - Haikyuu
    - [MyAnimeList](https://myanimelist.net/profile/littlemasu)
 3. Building Computers
-   - [My Computer](pictures/Computer.jpeg)
-      - **CPU:** Ryzen 9 5900x
-      - **GPU:** Radeon 6800xt
-      - **Motherboard:** Asus Rog Strix x570
+   ![My Computer](pictures/Computer.jpeg)
+      - [x] **CPU:** Ryzen 9 5900x
+      - [x] **GPU:** Radeon 6800xt
+      - [x] **Motherboard:** Asus Rog Strix x570
+      - [ ] **Custom Water Cooling:**
 
 
+#### Link to README.md
+[README.md](README.md)
 
